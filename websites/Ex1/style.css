@@ -1,0 +1,23 @@
+body {
+    background-color:lightgray;
+}
+
+.nav-bar {
+    border-radius: 100px;
+    background-color:lightblue;
+}
+
+.name-age table {
+    border-radius: 10px;
+    background-color:lightcoral;
+}
+
+.checkbox-items {
+    border-radius: 10px;
+    background-color:lemonchiffon;
+}
+
+.copyright {
+    border-radius: 100px;
+    background-color:lightseagreen;
+}
