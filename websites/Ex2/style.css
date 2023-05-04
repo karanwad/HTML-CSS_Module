@@ -1,0 +1,47 @@
+.container-one {
+    background-color:white;
+}
+
+.container-two {
+    background-color:lightgray;
+    text-align:center;
+    justify-content:center;
+    height: 25vh;
+    
+
+}
+
+input {
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
+ 
+}
+
+.container-three {
+    background-color:gray;
+    color: white;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin-top: 0px;
+
+}
+
+.button {
+    background-color:#0072e1;
+    color:white;
+    margin-right: 30px;
+    font-size: 12px;
+    padding: 5px;
+    margin-top: -50px;
+    border-radius: 6px;
+    
+}
+
+
+
+
